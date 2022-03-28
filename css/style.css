@@ -161,7 +161,9 @@ a:hover {
     max-width: 1368px;
     margin: auto;
 }
-
+.center_text {
+    text-align: center;
+}
 .Project_Title{
     margin-left: 24px;
     margin-top: 56px;
